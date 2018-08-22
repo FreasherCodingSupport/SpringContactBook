@@ -1,0 +1,1 @@
+<a target="_blank" href="#">THANK YOU! for using the Application</a>
